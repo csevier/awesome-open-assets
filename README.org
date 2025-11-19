@@ -56,6 +56,7 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://www.lotpixel.com/][Lot Pixel]]
 - [[https://poly.pizza/][Poly Pizza]]
 - [[https://www.gameart2d.com/freebies.html][Game Art 2d]]
+- [[https://sketchfab.com/features/free-3d-models][Sketchfab Free Filtered]]
   
 ** Open Creative Software
 *** 2d Asset Creation
