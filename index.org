@@ -1,0 +1,74 @@
+* Awesome Open Assets
+
+AOA is a repo with links to amazing places on the internet where you can get assets for your creative projects. These assets have been identified to have open licenses and are free to use. Some of these may seem like an odd inclusion at first, but, I do "cutout/collage" style art and animation, so maybe that will explain it. 
+
+
+Please note that not all of these are in the public domain. While many are, there may be other types of licenses these places follow, such as [[https://creativecommons.org/]]. So, be a little vigilant. Enjoy!
+
+
+** Music / Sound Effects
+- [[https://soundimage.org/][Sound Image]]
+- [[https://opengameart.org/][Open Game Art]]
+- [[https://commons.wikimedia.org/wiki/Main_Page][Wikimedia Commons]]
+- [[https://comicbookplus.com/][Comic Books+]] (They have radio shows)
+- [[https://github.com/freedoom/freedoom][Freedoom]] (has sfx and music)
+- [[https://github.com/Blasphemer][Blasphemer]] (has sfx and music)
+- [[https://freesound.org/][Free Sound]]
+- [[https://freemusicarchive.org/][Free Music Archive]]
+- [[https://www.classicals.de/][Classical.de]]
+- [[https://musopen.org/][MuseOpen]]
+- [[https://www.bluezone-corporation.com/free-sound-effects][Bluezone Corp Free Sound]]
+- [[https://publicdomainreview.org/][Public Domain Review]]
+  
+** Art 2d & 3d
+- [[https://opengameart.org/][Open Game Art]]
+- [[https://screamingbrainstudios.itch.io/][Screaming Brain Studio]]
+- [[https://soundimage.org/][Sound Image]]
+- [[https://www.gutenberg.org/][Project Gutenberg]] (I scrape the images from the books!)
+- [[https://www.flickr.com/commons][Flickr Commons]]
+- [[https://morguefile.com/][MorgueFile]]
+- [[https://commons.wikimedia.org/wiki/Main_Page][Wikimedia Commons]]
+- [[https://pixabay.com/images/search/public%20domain/][Pixabay]]
+- [[https://www.freeimages.com/][Getty Free Images]]
+- [[https://www.loc.gov/collections/][Library of Congress]]
+- [[https://www.europeana.eu/en/collections][Europeana Collection]]
+- [[https://www.wikipedia.org/][Wikipedia]]
+- [[https://archive.org/][Internet Archive]]
+- [[https://www.hathitrust.org/][HathiTrust]]
+- [[https://www.authorama.com/][Authorama]]
+- [[https://www.google.com/webhp?tbo=p&tbm=bks&tbs=,bkv:f,cdr:1,cd_max:Dec+31_2+1926&num=10&zx=1763521442662&no_sw_cr=1][Google Books with Special Filter For Release before 1927]]
+- [[https://publicdomainreview.org/][Public Domain Review]] (god damn, the sources sites need put into this list. )
+- [[https://comicbookplus.com/][Comic Books+]]
+- [[https://digitalcomicmuseum.com/][Digital Comic Museum]]
+- [[https://www.comicstriplibrary.org/][Comic Strip Library]]
+- [[https://www.nga.gov/artworks/free-images-and-open-access][National Gallery of Art]]
+- [[https://www.metmuseum.org/about-the-met/policies-and-documents/open-access][Open Access at The Met]]
+- [[https://www.rawpixel.com/public-domain][Raw Pixel Public Domain]]
+- [[https://artvee.com/collections/][Artvee]]
+- [[https://www.publicdomainpictures.net/en/][Public Domain Pictures.Net]]
+- [[https://github.com/freedoom/freedoom][Freedoom]]
+- [[https://github.com/Blasphemer][Blasphemer]]
+- [[https://itch.io/game-assets/free][Itch.io Free Assets]]
+- [[https://www.kenney.nl/][Kenney]]
+- [[https://quaternius.com/index.html][Quaternius]]
+- [[https://cc0-textures.com/][CC0 Textures]]
+- [[https://www.lotpixel.com/][Lot Pixel]]
+- [[https://poly.pizza/][Poly Pizza]]
+- [[https://www.gameart2d.com/freebies.html][Game Art 2d]]
+  
+** Open Creative Software
+*** 2d Asset Creation
+- [[https://www.gimp.org/][Gimp]]
+- [[inkscape.org][Inkscape]]
+  
+*** 2d Animation
+- [[https://opentoonz.github.io/e/][OpenToonz]]
+- [[https://tahoma2d.org/][Tahoma2d]]
+- [[https://friction.graphics/][Friction Graphics]]
+- [[https://www.synfig.org/][Synfig Studio]]
+- [[https://maurycyliebner.github.io/][Enve]]
+- [[https://dragonbones.github.io/en/download.html][DragonBones]]
+- [[https://natrongithub.github.io/][Natron]]
+  
+*** 3d Modelling and Animation
+- [[https://www.blender.org/][Blender 3d]]
