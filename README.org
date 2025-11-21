@@ -14,6 +14,7 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://comicbookplus.com/][Comic Books+]] (They have radio shows)
 - [[https://github.com/freedoom/freedoom][Freedoom]] (has sfx and music)
 - [[https://freemusicarchive.org/][Free Music Archive]]
+- [[https://freepd.com/][FreePD]]
 - [[https://freesound.org/][Free Sound]]
 - [[https://musopen.org/][MuseOpen]]
 - [[https://opengameart.org/][Open Game Art]]
@@ -35,8 +36,10 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://www.e-manuscripta.ch/][E-Manuscripta]]
 - [[https://www.europeana.eu/en/collections][Europeana Collection]]
 - [[https://www.flickr.com/commons][Flickr Commons]]
+- [[https://www.fromoldbooks.org][FOBO: Pictures From Old Books dot Org]]
 - [[https://github.com/freedoom/freedoom][Freedoom]]
 - [[https://www.gameart2d.com/freebies.html][Game Art 2d]]
+- [[https://game-icons.net][Game-icons.net]]
 - [[https://www.freeimages.com/][Getty Free Images]]
 - [[https://www.google.com/webhp?tbo=p&tbm=bks&tbs=,bkv:f,cdr:1,cd_max:Dec+31_2+1926&num=10&zx=1763521442662&no_sw_cr=1][Google Books with Special Filter For Release before 1927]]
 - [[https://www.hathitrust.org/][HathiTrust]]
@@ -47,7 +50,9 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://www.lotpixel.com/][Lot Pixel]]
 - [[https://morguefile.com/][MorgueFile]]
 - [[https://www.nga.gov/artworks/free-images-and-open-access][National Gallery of Art]]
+- [[https://digitalcollections.nypl.org][NYPL Digital Collections]]
 - [[https://www.metmuseum.org/about-the-met/policies-and-documents/open-access][Open Access at The Met]]
+- [[https://openclipart.org][Openclipart]]
 - [[https://opengameart.org/][Open Game Art]]
 - [[https://orka.bibliothek.uni-kassel.de/viewer/index/][Orka Open Repository Kassel]]
 - [[https://pixabay.com/images/search/public%20domain/][Pixabay]]
@@ -72,12 +77,14 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://www.gimp.org/][Gimp]]
 - [[inkscape.org][Inkscape]]
 - [[https://krita.org/en/][Krita]]
+- [[https://www.piskelapp.com/][Piskel]]
   
 *** 2d Animation
 - [[https://dragonbones.github.io/en/download.html][DragonBones]]
 - [[https://maurycyliebner.github.io/][Enve]]
 - [[https://friction.graphics/][Friction Graphics]]
 - [[https://opentoonz.github.io/e/][OpenToonz]]
+- [[https://www.pencil2d.org/][Pencil2D Animation]]
 - [[https://www.synfig.org/][Synfig Studio]]
 - [[https://tahoma2d.org/][Tahoma2d]]
   
