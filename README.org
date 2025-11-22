@@ -91,6 +91,7 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 *** 3d Modelling and Animation
 - [[https://www.blender.org/][Blender]]
 - [[blockbench.net][Blockbench]]
+- [[https://the.quetzal.community/aviary][Aviary]]
 
 *** Video Editing / Compositing
 - [[https://kdenlive.org/][Kden Live]]
