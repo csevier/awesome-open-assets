@@ -71,6 +71,9 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://wellcomecollection.org/][Wellcome Collection]]
 - [[https://commons.wikimedia.org/wiki/Main_Page][Wikimedia Commons]]
 - [[https://www.wikipedia.org/][Wikipedia]]
+
+** Caution! Licenses Unknown, working to find source permission. 
+- [[https://imgur.com/gallery/90s-cgi-aHzTx7V][Retro CGI]] (Sourced from hte Internet Raytracing Competition from 1996-2006. Contest Copyrights not specified. Working to confirm their uses.)
   
 ** Open Creative Software
 *** 2d Asset Creation
