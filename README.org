@@ -56,6 +56,7 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://openclipart.org][Openclipart]]
 - [[https://opengameart.org/][Open Game Art]]
 - [[https://orka.bibliothek.uni-kassel.de/viewer/index/][Orka Open Repository Kassel]]
+- [[https://www.peppercarrot.com/en/fonts/index.html][Pepper and Carrot Fonts]]
 - [[https://pixabay.com/images/search/public%20domain/][Pixabay]]
 - [[https://poly.pizza/][Poly Pizza]]
 - [[https://www.gutenberg.org/][Project Gutenberg]] (I scrape the images from the books!)
