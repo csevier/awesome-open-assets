@@ -99,9 +99,9 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 - [[https://tahoma2d.org/][Tahoma2d]]
   
 *** 3d Modelling and Animation
+- [[https://the.quetzal.community/aviary][Aviary]]
 - [[https://www.blender.org/][Blender]]
 - [[blockbench.net][Blockbench]]
-- [[https://the.quetzal.community/aviary][Aviary]]
 
 *** Video Editing / Compositing
 - [[https://kdenlive.org/][Kden Live]]
@@ -112,5 +112,5 @@ Some of these may seem like an odd inclusion at first, but, I do "cutout/collage
 
 *** Game Engines
 - [[https://godotengine.org/][Godot]]
-- [[https://www.zdoom.org/index][ZDoom Family]]
 - [[love2d.org][Love 2D]]
+- [[https://www.zdoom.org/index][ZDoom Family]]
